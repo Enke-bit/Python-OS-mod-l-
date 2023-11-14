@@ -1,4 +1,4 @@
-# Python-OS-mod-l-
+# Python_Os_modulu en çok kulanım komutları ve sırayla örnekleri.
 
 import os
 
